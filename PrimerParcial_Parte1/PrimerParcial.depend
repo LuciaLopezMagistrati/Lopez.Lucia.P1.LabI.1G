@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1634939650 source:c:\users\luclopez\desktop\utn_programación_1\primerparcial\fecha.c
+
+1635468742 source:c:\users\luclopez\desktop\utn_programación_1\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs.h"
+	"fecha.h"
+	"marca.h"
+	"notebook.h"
+	"servicio.h"
+	"tipo.h"
+	"trabajo.h"
+	"dataWarehouse.h"
+
+1635468842 source:c:\users\luclopez\desktop\utn_programación_1\primerparcial\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1634939803 c:\users\luclopez\desktop\utn_programación_1\primerparcial\marca.h
+
+1635468864 source:c:\users\luclopez\desktop\utn_programación_1\primerparcial\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1635381957 c:\users\luclopez\desktop\utn_programación_1\primerparcial\tipo.h
+
+1635431458 source:c:\users\luclopez\desktop\utn_programación_1\primerparcial\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635468202 source:c:\users\luclopez\desktop\utn_programación_1\primerparcial\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"notebook.h"
+	"inputs.h"
+
+1635468894 source:c:\users\luclopez\desktop\utn_programación_1\primerparcial\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1635382383 c:\users\luclopez\desktop\utn_programación_1\primerparcial\servicio.h
+
+1635429307 source:c:\users\luclopez\desktop\utn_programación_1\primerparcial\datawarehouse.c
+	"dataWarehouse.h"
+
+1635468202 source:c:\users\luclopez\desktop\utn_programación_1\primerparcial\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+	"trabajo.h"
+	"servicio.h"
+	"notebook.h"
+
+1635468202 c:\users\luclopez\desktop\utn_programación_1\primerparcial\notebook.h
+	"marca.h"
+	"tipo.h"
+
+1635431430 c:\users\luclopez\desktop\utn_programación_1\primerparcial\inputs.h
+
+1634939631 c:\users\luclopez\desktop\utn_programación_1\primerparcial\fecha.h
+
+1635468701 c:\users\luclopez\desktop\utn_programación_1\primerparcial\trabajo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	"servicio.h"
+	"notebook.h"
+
+1635379420 c:\users\luclopez\desktop\utn_programación_1\primerparcial\datawarehouse.h
+	"notebook.h"
+	"trabajo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
